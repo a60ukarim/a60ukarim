@@ -26,7 +26,7 @@ My work includes content management platforms, dashboards, authentication practi
 - 🏢 **Role:** Co-Founder & Full-Stack Developer at **ArzCore Technologies**
 - 🎓 **Education:** Completed **BT3**, **TS2**, and **LT** through Lebanon's technical education system
 - 💻 **Development:** frontend interfaces, backend functionality, databases, and deployment
-- 🌐 **Product focus:** responsive, accessible-to-use Arabic/English experiences with RTL support
+- 🌐 **Product focus:** responsive, easy-to-use Arabic/English experiences with RTL support
 - 📱 **Mobile:** developing with **React Native & Expo** for Android and iOS
 - 🤝 **Open to:** software projects, development opportunities, and collaboration
 
