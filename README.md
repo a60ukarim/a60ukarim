@@ -145,6 +145,16 @@ My technical education provided a foundation in programming, computer systems, d
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/a60ukarim/a60ukarim/main/assets/contribution-snake.svg" width="100%" alt="Jamal's animated contribution snake" />
+</div>
+
+<sub>A looping animation of my public contribution calendar, refreshed daily.</sub>
+
+---
+
 ## 🎯 Current Focus
 
 - Building practical web and mobile applications
