@@ -1,14 +1,17 @@
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Jamal%20Al-Nashar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Applications%20%7C%20Mobile%20Apps&descAlignY=60" alt="Jamal Al-Nashar banner" />
 
 # 👋 Hi, I'm Jamal Al-Nashar
 
-### Co-Founder & Full-Stack Developer at [ArzCore](https://arzcore.com)
+### Co-Founder at ArzCore Technologies | Full-Stack Developer | Web & Mobile Applications
 
-**Building practical web applications, reliable backends, and intuitive digital experiences.**
+Based in **Tripoli, Lebanon** • **LT graduate — Business Computer & Management** • Open to software projects and collaboration
 
-[![ArzCore](https://img.shields.io/badge/ArzCore-Visit%20Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arzcore.com)
-[![GitHub](https://img.shields.io/badge/GitHub-a60ukarim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a60ukarim)
+<p>
+  <a href="https://github.com/a60ukarim?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
+  <a href="https://arzcore.com"><img src="https://img.shields.io/badge/ArzCore_Technologies-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ArzCore" /></a>
+</p>
 
 </div>
 
@@ -16,167 +19,147 @@
 
 ## 🚀 About Me
 
-I'm a full-stack developer from **Lebanon**, working at **[ArzCore](https://arzcore.com)**.
+I'm a full-stack developer and **Co-Founder of [ArzCore Technologies](https://arzcore.com)**. I build practical web applications, backend systems, and responsive interfaces, and work on cross-platform mobile applications with **React Native & Expo**.
 
-I enjoy transforming ideas into real-world digital solutions, from designing responsive user interfaces to developing backend systems, managing databases, and deploying applications.
+My work includes content management platforms, dashboards, authentication practice projects, and mobile applications. I enjoy turning ideas into clear, useful digital experiences.
 
-- 💻 Experienced with **React, TypeScript, JavaScript, Node.js, PHP, and SQL**.
-- ☁️ Working with **Cloudflare, MySQL, and cloud-based databases**.
-- 📱 Exploring cross-platform mobile development using **React Native & Expo**.
-- 🛠️ Passionate about building scalable, maintainable, and user-friendly applications.
-- 🎯 Focused on clean code, practical problem-solving, and continuous improvement.
-
----
-
-## 💻 Tech Stack
-
-### Frontend Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Tools & Platforms
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+- 🏢 **Role:** Co-Founder & Full-Stack Developer at **ArzCore Technologies**
+- 🎓 **Education:** Completed **BT3**, **TS2**, and **LT** through Lebanon's technical education system
+- 💻 **Development:** frontend interfaces, backend functionality, databases, and deployment
+- 🌐 **Product focus:** responsive, accessible-to-use Arabic/English experiences with RTL support
+- 📱 **Mobile:** developing with **React Native & Expo** for Android and iOS
+- 🤝 **Open to:** software projects, development opportunities, and collaboration
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Experience
 
-### 🌐 ArzCore — Digital Solutions
+### Co-Founder & Full-Stack Developer · ArzCore Technologies
+**Lebanon**
 
-**Professional Work | Co-Founder & Full-Stack Developer**
+Work with my co-founder on planning and developing digital products for clients in Lebanon and abroad. My focus includes frontend implementation, backend development, databases, responsive interfaces, deployment, and application maintenance.
 
-[Visit ArzCore](https://arzcore.com)
+---
 
-Working on modern digital solutions with a focus on full-stack development, responsive design, backend functionality, and reliable applications for real-world businesses.
+## ✨ Featured Projects
+
+### 🌐 ArzCore Technologies
+**Web development & digital solutions**
+
+[![Visit Website](https://img.shields.io/badge/Visit_Website-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arzcore.com)
+
+Co-founding a technology business focused on websites, applications, and practical software solutions.
+
+---
 
 ### 📰 News & Content Management Platform
+**PHP · MySQL · JavaScript · HTML · CSS**
 
-**PHP | MySQL | JavaScript | HTML | CSS**
+A database-driven publishing platform with an administration dashboard, news and statement management, image uploads, media content, and a responsive interface.
 
-A database-driven publishing platform featuring:
-
-- Private administration dashboard
-- News and statement management
-- Image uploads and media management
-- Dynamic content publishing
-- Responsive user interface
+---
 
 ### 🚗 بطريقك — Ride-Sharing Application
+**React Native · Expo · Android & iOS**
 
-**React Native | Expo | Mobile Development**
+*In development*
 
-*In Development*
+A mobile carpooling project connecting drivers and passengers, with planned driver verification, vehicle management, ride discovery, reporting, and administrative review.
 
-A mobile carpooling platform designed to connect drivers and passengers.
-
-Key planned features include:
-
-- Driver and passenger accounts
-- Ride searching and booking
-- Route management
-- Driver verification
-- Reporting and safety features
-- Administrative management
+---
 
 ### 🕌 Prayer Companion
+**React Native · Expo · Android & iOS**
 
-**React Native | Expo**
+*In development*
 
-*In Planning*
+An Islamic companion application being developed around prayer times, Adhan notifications, nearby mosques and prayer spaces, Qibla direction, Quran, Awrad, supplications, and multilingual support.
 
-A mobile application designed to help Muslims manage their daily prayers and access useful Islamic resources.
-
-Planned features include:
-
-- Prayer times
-- Nearby mosques and prayer spaces
-- Supplications and Islamic content
-- Offline-friendly functionality
-- User-friendly multilingual experience
+---
 
 ### 📊 React Dashboard
+**React · JavaScript · CSS**
 
-**React | JavaScript | CSS**
+[![View Project](https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a60ukarim/my-react-app)
 
-A responsive dashboard project focusing on reusable components, navigation, interface design, and usability across devices.
+A dashboard project focused on responsive layouts, navigation, reusable interface components, and usability across different screen sizes.
 
-### 🔐 Authentication System
+### 🔐 Authentication Practice Project
+**HTML · CSS · JavaScript · JSON**
 
-**HTML | CSS | JavaScript | JSON**
+A local frontend practice project exploring registration, login, and user flows.
 
-A frontend authentication practice project featuring registration, login, and password-recovery flows in a local development environment.
+---
+
+## 🧰 Tech Stack
+
+### Languages & App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cs,dotnet,react,nextjs,html,css,tailwind&perline=5" alt="Python, TypeScript, JavaScript, C#, .NET, React, Next.js, HTML, CSS, Tailwind CSS" />
+</p>
+
+### Backend, Data & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,sqlite,redis,prisma,docker,linux,nginx&perline=5" alt="Node.js, Express, Flask, PostgreSQL, SQLite, Redis, Prisma, Docker, Linux, Nginx" />
+</p>
+
+### Additional Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,cloudflare,git,github,vscode&perline=6" alt="PHP, MySQL, Cloudflare, Git, GitHub, Visual Studio Code" />
+</p>
+
+**Mobile development:** React Native · Expo
+
+**Core hands-on stack:** React · TypeScript · JavaScript · Node.js · PHP · SQL · HTML/CSS · Cloudflare · Git/GitHub
+
+**Areas I enjoy:** `Full-stack development` · `Mobile applications` · `Database design` · `Responsive interfaces` · `Arabic/English UX`
 
 ---
 
 ## 🎓 Education & Qualifications
 
-I completed three qualifications through the **Lebanese Technical Education System**:
+Completed three qualifications through the **Lebanese Technical Education System**:
 
 | Qualification | Specialization |
-|---|---|
+| --- | --- |
 | **BT3 — Technical Baccalaureate** | Information Technology |
 | **TS2 — Higher Technician Studies** | Information Technology |
 | **LT — Technical Licentiate** | Business Computer & Management |
 
-My technical education provided a foundation in programming, computer systems, databases, and information technology.
+My technical education provided a foundation in programming, computer systems, databases, and business applications.
+
+**Languages:** Arabic — native · English — continuing to improve
 
 ---
 
-## 🧠 What I Do
-
-- Full-Stack Web Development
-- Responsive Frontend Development
-- Backend Development & APIs
-- Database Design & Management
-- Content Management Systems
-- Cloudflare & Web Deployment
-- User Interface Development
-- Web Application Maintenance
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a60ukarim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&rank_icon=github" alt="Jamal's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a60ukarim&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Jamal's top languages" />
+</div>
 
-![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a60ukarim&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a60ukarim&layout=compact&theme=github_dark&hide_border=true)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=a60ukarim&theme=github-dark-blue&hide_border=true" alt="Jamal's GitHub contribution streak" />
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Current Focus
 
-I'm interested in building meaningful digital products, collaborating on software projects, and exploring new technologies.
-
-🌐 **Website:** [arzcore.com](https://arzcore.com)
-
-💻 **GitHub:** [github.com/a60ukarim](https://github.com/a60ukarim)
+- Building practical web and mobile applications
+- Developing Prayer Companion and بطريقك
+- Improving application performance, navigation, and usability
+- Growing ArzCore Technologies through useful digital products
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
 
-### 🚀 Always Learning. Always Building. Always Improving.
+If you're working on **websites, mobile apps, business software, or full-stack products**, I'd be happy to connect.
 
-**Turning Ideas Into Digital Solutions.**
+<a href="https://arzcore.com"><strong>🌐 ArzCore Technologies</strong></a> · <a href="https://github.com/a60ukarim?tab=repositories"><strong>GitHub Repositories</strong></a>
 
 </div>
