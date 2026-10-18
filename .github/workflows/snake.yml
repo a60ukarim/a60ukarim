@@ -1,0 +1,42 @@
+name: Generate Snake
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+      - scripts/generate_snake.py
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate animated contribution calendar
+        run: python scripts/generate_snake.py
+      - name: Save updated animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-snake.svg
+          if git diff --cached --quiet; then
+            echo "Contribution snapshot is unchanged"
+            exit 0
+          fi
+          git commit -m "Refresh contribution snake snapshot"
+          git pull --rebase origin main
+          git push origin HEAD:main
