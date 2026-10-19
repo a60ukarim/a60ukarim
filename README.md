@@ -123,7 +123,7 @@ Completed three qualifications through the **Lebanese Technical Education System
 | Qualification | Specialization |
 | --- | --- |
 | **BT3 — Technical Baccalaureate** | Information Technology |
-| **TS2 — Higher Technician Studies** | Information Technology |
+| **TS2 — Higher Technician Studies** | Business Computer & Management |
 | **LT — Technical Licentiate** | Business Computer & Management |
 
 My technical education provided a foundation in programming, computer systems, databases, and business applications.
