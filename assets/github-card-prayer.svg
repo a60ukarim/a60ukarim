@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="245" viewBox="0 0 560 245" role="img" aria-label="Prayer COMPANION"><rect width="560" height="245" rx="12" fill="#161b22"/><rect x="1" y="1" width="558" height="243" rx="11" stroke="#30363d" stroke-width="2" fill="none"/><path d="M16 1H544" stroke="#58a6ff" opacity=".7"/><g font-family="Segoe UI,Arial,sans-serif">
+<text x="24" y="34" font-size="12" font-weight="700" letter-spacing="1.3" fill="#58a6ff">02 / MOBILE · IN DEVELOPMENT</text>
+<text x="23" y="90" font-size="43" font-weight="800" fill="#e6edf3" letter-spacing="-1">Prayer</text>
+<text x="23" y="126" font-size="24" letter-spacing=".9" font-weight="650" fill="#58a6ff">COMPANION</text>
+<text x="24" y="162" font-size="15" fill="#8b949e">Prayer times · Qibla · Mosque discovery</text>
+<text x="24" y="184" font-size="15" fill="#8b949e">A multilingual Android &amp; iOS project</text>
+<line x1="24" y1="203" x2="536" y2="203" stroke="#30363d"/>
+<text x="24" y="228" font-size="12" font-weight="650" fill="#e6edf3" letter-spacing="1.4">REACT NATIVE / EXPO</text>
+<path d="M509 224h25l-8 -8m8 8l-8 8" fill="none" stroke="#58a6ff" stroke-width="1.5"/>
+</g><g><circle cx="470" cy="117" r="62" stroke="#58a6ff" opacity=".4"/><circle cx="470" cy="117" r="39" stroke="#58a6ff" opacity=".65"/><path d="M470 62V78M470 156V172M415 117H431M509 117H525" stroke="#58a6ff"/><path d="M470 88L484 131 470 125 456 131Z" fill="#58a6ff"/><circle cx="470" cy="117" r="5" fill="#e6edf3"/></g></svg>
