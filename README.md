@@ -6,7 +6,7 @@
 
 ### Co-Founder at ArzCore Technologies | Full-Stack Developer | Web & Mobile Applications
 
-Based in **Tripoli, Lebanon** • **LT graduate — Business Computer & Management** • Open to software projects and collaboration
+Based in **Tripoli, Lebanon** • **LT graduate — Informatics – Software Development** • Open to software projects and collaboration
 
 <p>
   <a href="https://github.com/a60ukarim?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
@@ -124,7 +124,7 @@ Completed three qualifications through the **Lebanese Technical Education System
 | --- | --- |
 | **BT3 — Technical Baccalaureate** | Information Technology |
 | **TS2 — Higher Technician Studies** | Business Computer & Management |
-| **LT — Technical Licentiate** | Business Computer & Management |
+| **LT — Technical Licentiate** | Informatics – Software Development |
 
 My technical education provided a foundation in programming, computer systems, databases, and business applications.
 
