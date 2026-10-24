@@ -52,6 +52,17 @@ Co-founding a technology business focused on websites, applications, and practic
 
 ---
 
+### 🗂️ ArzDesk — Open-Source Business Workspace
+**Next.js · React · TypeScript · PostgreSQL · Drizzle ORM · Tailwind CSS**
+
+[![View Source](https://img.shields.io/badge/View_Source-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a60ukarim/ArzDesk)
+
+An open-source workspace for freelancers and small teams to organize clients, projects, and tasks across multiple workspaces. Supports account-based online collaboration with role-based permissions, plus an independent offline mode with local storage and JSON backups.
+
+**Current release:** v0.6.1 · **Offline mode:** available after first online setup; local edits do not automatically sync to the cloud.
+
+---
+
 ### 📰 News & Content Management Platform
 **PHP · MySQL · JavaScript · HTML · CSS**
 
@@ -158,6 +169,7 @@ My technical education provided a foundation in programming, computer systems, d
 ## 🎯 Current Focus
 
 - Building practical web and mobile applications
+- Improving ArzDesk, an open-source online and offline business workspace
 - Developing Prayer Companion and بطريقك
 - Improving application performance, navigation, and usability
 - Growing ArzCore Technologies through useful digital products
