@@ -86,6 +86,17 @@ A mobile carpooling project connecting drivers and passengers, with planned driv
 
 An Islamic companion application being developed around prayer times, Adhan notifications, nearby mosques and prayer spaces, Qibla direction, Quran, Awrad, supplications, and multilingual support.
 
+[Privacy policy](https://prayer-companion-privacy.vercel.app)
+
+---
+
+### 🏪 Sufra — Restaurant & Café Ordering
+**React · Cloudflare Workers · Arabic/English**
+
+*In development*
+
+A menu and ordering platform for restaurants and cafés: a QR menu for each table, table orders, guest requests for help and the bill, and an owner dashboard for menus, sharing, and orders.
+
 ---
 
 ### 📊 React Dashboard
