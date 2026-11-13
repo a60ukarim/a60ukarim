@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="assets/github-hero.svg" width="100%" alt="Jamal Al-Nashar, Full Stack Developer and ArzCore Co-Founder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Jamal%20Al-Nashar&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web%20Applications%20%7C%20Mobile%20Apps&descAlignY=60" alt="Jamal Al-Nashar banner" />
 
-<br/>
+# 👋 Hi, I'm Jamal Al-Nashar
 
-**Full-Stack Developer · Co-Founder at [ArzCore Technologies](https://arzcore.com)**
-Tripoli, Lebanon · Web & mobile applications · Arabic / English with RTL support
+### Co-Founder at ArzCore Technologies | Full-Stack Developer | Web & Mobile Applications
+
+Based in **Tripoli, Lebanon** • **LT graduate — Informatics – Software Development** • Open to software projects and collaboration
 
 <p>
   <a href="https://github.com/a60ukarim?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" /></a>
@@ -16,89 +17,157 @@ Tripoli, Lebanon · Web & mobile applications · Arabic / English with RTL suppo
 
 ---
 
-## About
+## 🚀 About Me
 
-I build practical web applications, backend systems, and responsive interfaces, and I work on cross-platform mobile apps with **React Native & Expo**. My work covers content platforms, dashboards, authentication practice projects, and mobile apps. I like turning ideas into clear, useful digital experiences.
+I'm a full-stack developer and **Co-Founder of [ArzCore Technologies](https://arzcore.com)**. I build practical web applications, backend systems, and responsive interfaces, and work on cross-platform mobile applications with **React Native & Expo**.
 
-- **Role:** Co-Founder & Full-Stack Developer at ArzCore Technologies
-- **Focus:** frontend, backend, databases, deployment, and maintenance
-- **Mobile:** React Native & Expo for Android and iOS
-- **Open to:** software projects, development opportunities, and collaboration
+My work includes content management platforms, dashboards, authentication practice projects, and mobile applications. I enjoy turning ideas into clear, useful digital experiences.
 
----
-
-## Experience
-
-**Co-Founder & Full-Stack Developer · ArzCore Technologies** · Lebanon
-
-I work with my co-founder on planning and building digital products for clients in Lebanon and abroad: frontend implementation, backend development, databases, responsive interfaces, deployment, and maintenance.
+- 🏢 **Role:** Co-Founder & Full-Stack Developer at **ArzCore Technologies**
+- 🎓 **Education:** Completed **BT3**, **TS2**, and **LT** through Lebanon's technical education system
+- 💻 **Development:** frontend interfaces, backend functionality, databases, and deployment
+- 🌐 **Product focus:** responsive, easy-to-use Arabic/English experiences with RTL support
+- 📱 **Mobile:** developing with **React Native & Expo** for Android and iOS
+- 🤝 **Open to:** software projects, development opportunities, and collaboration
 
 ---
 
-## Projects
+## 💼 Experience
 
-<div align="center">
+### Co-Founder & Full-Stack Developer · ArzCore Technologies
+**Lebanon**
 
-<table>
-  <tr>
-    <td width="50%" align="center"><a href="https://arzcore.com"><img src="assets/github-card-arzcore.svg" width="100%" alt="ArzCore Technologies" /></a></td>
-    <td width="50%" align="center"><img src="assets/github-card-prayer.svg" width="100%" alt="Prayer Companion, in development" /></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><img src="assets/github-card-dashboard.svg" width="100%" alt="React Dashboard" /></td>
-    <td width="50%" align="center"><img src="assets/github-card-auth.svg" width="100%" alt="Web Auth Practice Project" /></td>
-  </tr>
-</table>
-
-</div>
-
-**More projects**
-
-- **ArzDesk**: an open-source business workspace for freelancers and small teams. It runs online with accounts and roles, or offline with local storage and JSON backups. *Next.js · React · TypeScript · PostgreSQL · Drizzle ORM · Tailwind CSS*. [Source](https://github.com/a60ukarim/ArzDesk)
-- **News & Content Platform**: a database-driven publishing site with an admin dashboard, news and statement management, media uploads, and a responsive interface. *PHP · MySQL · JavaScript*
-- **بطريقك (Ride-Sharing App)**: a mobile carpooling app connecting drivers and passengers. *React Native · Expo · in development*
-- **Prayer Companion**: an Islamic companion app covering prayer times, Adhan notifications, nearby mosques, Qibla direction, Quran, supplications, and multilingual support. *React Native · Expo · in development*. [Privacy policy](https://prayer-companion-privacy.vercel.app)
+Work with my co-founder on planning and developing digital products for clients in Lebanon and abroad. My focus includes frontend implementation, backend development, databases, responsive interfaces, deployment, and application maintenance.
 
 ---
 
-## Tech Stack
+## ✨ Featured Projects
 
-<div align="center">
-  <img src="assets/github-toolkit.svg" width="100%" alt="Technology stack grouped by frontend, backend, data and mobile" />
-</div>
+### 🌐 ArzCore Technologies
+**Web development & digital solutions**
 
-<br/>
+[![Visit Website](https://img.shields.io/badge/Visit_Website-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arzcore.com)
 
-**Core stack:** React · TypeScript · JavaScript · Node.js · PHP · SQL · HTML/CSS · Cloudflare · Git/GitHub
-**Mobile:** React Native · Expo
-**Areas I enjoy:** full-stack development · mobile apps · database design · responsive interfaces · Arabic/English UX
+Co-founding a technology business focused on websites, applications, and practical software solutions.
 
 ---
 
-## Education
+### 🗂️ ArzDesk — Open-Source Business Workspace
+**Next.js · React · TypeScript · PostgreSQL · Drizzle ORM · Tailwind CSS**
 
-<div align="center">
-  <img src="assets/github-education.svg" width="100%" alt="Technical qualifications from the Lebanese Technical Education System" />
-</div>
+[![View Source](https://img.shields.io/badge/View_Source-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a60ukarim/ArzDesk)
 
-Three qualifications from the Lebanese Technical Education System: **BT3** (Information Technology), **TS2** (Business Computer & Management), and **LT** (Informatics, Software Development). They gave me a foundation in programming, computer systems, databases, and business applications.
+An open-source workspace for freelancers and small teams to organize clients, projects, and tasks across multiple workspaces. Supports account-based online collaboration with role-based permissions, plus an independent offline mode with local storage and JSON backups.
 
-**Languages:** Arabic (native) · English (continuing to improve)
+**Current release:** v0.6.1 · **Offline mode:** available after first online setup; local edits do not automatically sync to the cloud.
 
 ---
 
-## GitHub Stats
+### 📰 News & Content Management Platform
+**PHP · MySQL · JavaScript · HTML · CSS**
+
+A database-driven publishing platform with an administration dashboard, news and statement management, image uploads, media content, and a responsive interface.
+
+---
+
+### 🚗 بطريقك — Ride-Sharing Application
+**React Native · Expo · Android & iOS**
+
+*In development*
+
+A mobile carpooling project connecting drivers and passengers, with planned driver verification, vehicle management, ride discovery, reporting, and administrative review.
+
+---
+
+### 🕌 Prayer Companion
+**React Native · Expo · Android & iOS**
+
+*In development*
+
+An Islamic companion application being developed around prayer times, Adhan notifications, nearby mosques and prayer spaces, Qibla direction, Quran, Awrad, supplications, and multilingual support.
+
+[Privacy policy](https://prayer-companion-privacy.vercel.app)
+
+---
+
+### 🏪 Sufra — Restaurant & Café Ordering
+**React · Cloudflare Workers · Arabic/English**
+
+*In development*
+
+A menu and ordering platform for restaurants and cafés: a QR menu for each table, table orders, guest requests for help and the bill, and an owner dashboard for menus, sharing, and orders.
+
+---
+
+### 📊 React Dashboard
+**React · JavaScript · CSS**
+
+[![View Project](https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a60ukarim/my-react-app)
+
+A dashboard project focused on responsive layouts, navigation, reusable interface components, and usability across different screen sizes.
+
+### 🔐 Authentication Practice Project
+**HTML · CSS · JavaScript · JSON**
+
+A local frontend practice project exploring registration, login, and user flows.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cs,dotnet,react,nextjs,html,css,tailwind&perline=5" alt="Python, TypeScript, JavaScript, C#, .NET, React, Next.js, HTML, CSS, Tailwind CSS" />
+</p>
+
+### Backend, Data & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,sqlite,redis,prisma,docker,linux,nginx&perline=5" alt="Node.js, Express, Flask, PostgreSQL, SQLite, Redis, Prisma, Docker, Linux, Nginx" />
+</p>
+
+### Additional Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,cloudflare,git,github,vscode&perline=6" alt="PHP, MySQL, Cloudflare, Git, GitHub, Visual Studio Code" />
+</p>
+
+**Mobile development:** React Native · Expo
+
+**Core hands-on stack:** React · TypeScript · JavaScript · Node.js · PHP · SQL · HTML/CSS · Cloudflare · Git/GitHub
+
+**Areas I enjoy:** `Full-stack development` · `Mobile applications` · `Database design` · `Responsive interfaces` · `Arabic/English UX`
+
+---
+
+## 🎓 Education & Qualifications
+
+Completed three qualifications through the **Lebanese Technical Education System**:
+
+| Qualification | Specialization |
+| --- | --- |
+| **BT3 — Technical Baccalaureate** | Information Technology |
+| **TS2 — Higher Technician Studies** | Business Computer & Management |
+| **LT — Technical Licentiate** | Informatics – Software Development |
+
+My technical education provided a foundation in programming, computer systems, databases, and business applications.
+
+**Languages:** Arabic — native · English — continuing to improve
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=a60ukarim&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&rank_icon=github" alt="Jamal's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a60ukarim&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Jamal's top languages" />
-  <br/>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=a60ukarim&theme=github-dark-blue&hide_border=true" alt="Jamal's GitHub contribution streak" />
 </div>
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/a60ukarim/a60ukarim/main/assets/contribution-snake.svg" width="100%" alt="Jamal's animated contribution snake" />
@@ -108,7 +177,7 @@ Three qualifications from the Lebanese Technical Education System: **BT3** (Info
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - Building practical web and mobile applications
 - Improving ArzDesk, an open-source online and offline business workspace
@@ -118,12 +187,12 @@ Three qualifications from the Lebanese Technical Education System: **BT3** (Info
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
 
-## Let's connect
+If you're working on **websites, mobile apps, business software, or full-stack products**, I'd be happy to connect.
 
-If you're working on **websites, mobile apps, business software, or full-stack products**, I'd be glad to talk.
-
-<a href="https://arzcore.com"><strong>ArzCore Technologies</strong></a> · <a href="https://github.com/a60ukarim?tab=repositories"><strong>GitHub Repositories</strong></a>
+<a href="https://arzcore.com"><strong>🌐 ArzCore Technologies</strong></a> · <a href="https://github.com/a60ukarim?tab=repositories"><strong>GitHub Repositories</strong></a>
 
 </div>
