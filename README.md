@@ -154,6 +154,22 @@ My technical education provided a foundation in programming, computer systems, d
 
 ---
 
+## 🏆 Achievements & Certifications
+
+### Galactic Problem Solver — NASA Space Apps Challenge 2026
+
+**Certificate of participation and recognition** · November 14–15, 2026
+
+- **Project:** OrbitFire AI
+- **Challenge:** Flame in Freefall
+- **Focus:** AI-powered insights from microgravity combustion research for space fire safety.
+
+<div align="center">
+  <a href="assets/nasa-space-apps-2026.jpg"><img src="assets/nasa-space-apps-2026.jpg" width="650" alt="Galactic Problem Solver — NASA Space Apps Challenge 2026 certificate awarded to Jamal Nashar" /></a>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
